@@ -84,9 +84,9 @@ header {
 }
 
 .logo {
-  width: 124px;
   margin-top: 20px;
   height:65px;
+  display: inline-block;
 }
 
 .header-left {
