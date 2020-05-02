@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(opening.JPG);
   background-size: cover;
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -84,7 +84,6 @@ header {
 }
 
 .logo {
-  margin-top: 20px;
   height:65px;
   display: inline-block;
 }
